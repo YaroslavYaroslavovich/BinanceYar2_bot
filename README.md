@@ -1,2 +1,2 @@
-# BinanceYar2_bot
+BinanceYar2_bot
 7983996109:AAEtBuXfPSGwdOltRqdNvKByPJg45knooic
